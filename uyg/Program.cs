@@ -10,6 +10,8 @@ namespace uyg
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("ecem");
         }
     }
 }
